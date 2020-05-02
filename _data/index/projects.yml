@@ -1,22 +1,30 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: JustDeleteMe
+  i18n: jdm
+  gh_user: jdm-contrib
+  repo: jdm
+  img: /static/assets/img/landing/jdm.png
+  desc: This project is my project. I use javescript to get repo's information all my.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
+- name: OpenRCT2
+  i18n: openrct2
+  gh_user: OpenRCT2
+  repo: OpenRCT2
+  img: /static/assets/img/landing/openrct2.png
   desc: This project is other's project. I use another request to get repo's information.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Brazilian Portuguese TED Translators style guide
+  i18n: ted
+  gh_user: tupaschoal
+  repo: TED-Translators_PT-BR_Styleguide
+  img: /static/assets/img/landing/ted.jpg
+  desc: This project is other's project. I use another request to get repo's information.
+  
+- name: time-to-leave
+  i18n: time-to-leave
+  gh_user: thamara
+  repo: time-to-leave
+  img: /static/assets/img/landing/ttl.png
+  desc: This project is other's project. I use another request to get repo's information.

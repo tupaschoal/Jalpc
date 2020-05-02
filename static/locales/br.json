@@ -19,10 +19,11 @@
     "my_skills": "My Skills"
   },
   "projects":{
-    "my_projects": "My Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "my_projects": "Meus Projetos",
+    "jdm": "Um diretório de links diretos para deletar sua conta em serviços da web",
+    "openrct2": "Ume reimplementação \"open source\" do RollerCoaster Tycoon 2 🎢",
+    "ted": "Guia de Estilo para Traduções e Transcrições do TED em Português (Brasil)",
+    "time-to-leave": "Registre horas de trabalho e seja notificado quando for a hora de ir e viver"
   },
   "career":{
     "my_career": "Minha Carreira",

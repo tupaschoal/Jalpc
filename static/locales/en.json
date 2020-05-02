@@ -20,9 +20,10 @@
   },
   "projects":{
     "my_projects": "My Projects",
-    "jalpc": "This project is my project. I use javescript to get repo's information all my repos have only one request.",
-    "cpython": "This project is other's project. I use another request to get repo's information.",
-    "familycode": "This is another project."
+    "jdm": "A directory of direct links to delete your account from web services",
+    "openrct2": "An open source re-implementation of RollerCoaster Tycoon 2 🎢",
+    "ted": "Brazilian Portuguese TED Translators style guide",
+    "time-to-leave": "Log work hours and get notified when it's time to leave the office and start to live"
   },
   "career":{
     "my_career": "My Career",
