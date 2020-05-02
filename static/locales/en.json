@@ -13,7 +13,7 @@
   },
   "about_me":{
     "about_me": "About Me",
-    "des": "I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel."
+    "des": "Give me a challenge: I will be happy to solve, thrilled to present and delighted to explain it!"
   },
   "skills":{
     "my_skills": "My Skills"
@@ -26,22 +26,21 @@
   },
   "career":{
     "my_career": "My Career",
-    "nextcode": "Nextcode",
-    "nextcode_des": "Now I am in Nextcode and develop website with Python code for genetic analysis.",
-    "nextcode_date": "Apr. 2016",
-    "nextcode_job": "Python Developer",
-    "netease": "Netease Game",
-    "netease_des": "In Netease game, I learned game service system and use Python code for ops.",
-    "netease_date": "Jun. 2015",
-    "netease_job": "Dev Ops",
-    "ucloud": "Ucloud",
-    "ucloud_des": "In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.",
-    "ucloud_date": "Sep. 2013",
-    "ucloud_job": "Dev Ops",
-    "college": "Graduation",
-    "college_des": "At July 2013,I graduated from college and started my IT technology tour.",
-    "college_date": "Jul. 2013",
-    "college_job": "Student"
+    "cadence_description": "Manage and work in a skunkworks team to design and deploy core software architecture changes: supporting new compilers, updating libraries, moving programming languages to newest standards and retiring others and more. As Project Lead, write specifications and develop Graphical User Interface (GUI) projects, such as exploring clock setup, visual debug of design synthesis and combinatorial loops. Influential in site leadership through organization of onsite events: technical conferences, fundraisers, presentation workshops, among others.",
+    "cadence_date": "Dec 2014 - Present",
+    "cadence_position": "Lead Software Engineer",
+    "soton_description": "Investigation on Iterative Learning Control (ILC) with Backstepping for autonomous surveillance with a quadrotor.",
+    "soton_date": "Sep 2013 - Sep 2014",
+    "soton_position": "Bachelor of Electrical and Electronics Engineering (Science without Borders)",
+    "4_impar_description": "Develop and maintain web Content Management Systems (CMS).",
+    "4_impar_date": "Aug 2012 - Sep 2013",
+    "4_impar_position": "Web Developer",
+    "cpejr_description": "Responsible for divulging and improving knowledge of vision/goal/strategy triad and Key Process Indicators (KPI) inside the company.",
+    "cpejr_date": "Nov 2011 - Aug 2012",
+    "cpejr_position": "Management Advisor",
+    "ufmg_description": "Final project: Automatic Fault Injection into SystemC Designs.",
+    "ufmg_date": "Aug 2010 -  Jul 2016",
+    "ufmg_position": "Bachelor of Control and Automation Engineering (BEng)"
   },
   "blog":{
     "my_blog": "My Blog"

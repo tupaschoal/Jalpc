@@ -1,30 +1,57 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
-    i18n: company_a
+    detail: Cadence Design Systems
+    i18n: cadence_name
   desc:
-    detail: I worked at Company A ...
-    i18n: company_a_desc
+    i18n: cadence_description
   date:
-    detail: Apr. 2016
-    i18n: company_a_date
+    i18n: cadence_date
   job:
-    detail: CTO
-    i18n: company_a_job
-  icon: fa-plus-square
+    i18n: cadence_position
+  icon: fa-code
   present: true
 
 - name:
-    detail: Company B
-    i18n: company_b
+    detail: University of Southampton
+    i18n: soton_name
   desc:
-    detail: I worked at Company B ...
-    i18n: company_b_desc
+    i18n: soton_description
   date:
-    detail: Jun. 2015
-    i18n: company_b_date
+    i18n: soton_date
   job:
-    detail: Full Stack Developer
-    i18n: company_b_job
-  icon: fa-plus-square
+    i18n: soton_position
+  icon: fa-graduation-cap
+
+- name:
+    detail: 4 Ímpar
+    i18n: 4_impar_name
+  desc:
+    i18n: 4_impar_description
+  date:
+    i18n: 4_impar_date
+  job:
+    i18n: 4_impar_position
+  icon: fa-code
+
+- name:
+    detail: Consultoria e Projetos Elétricos Júnior
+    i18n: cpejr_name
+  desc:
+    i18n: cpejr_description
+  date:
+    i18n: cpejr_date
+  job:
+    i18n: cpejr_position
+  icon: fa-tasks
+
+- name:
+    detail: Universidade Federal de Minas Gerais
+    i18n: ufmg_name
+  desc:
+    i18n: ufmg_description
+  date:
+    i18n: ufmg_date
+  job:
+    i18n: ufmg_position
+  icon: fa-graduation-cap
