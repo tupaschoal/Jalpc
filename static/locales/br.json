@@ -3,13 +3,13 @@
     "title": "Jack's blog"
   },
   "nav":{
-    "home": "Home",
-    "about_me": "About",
-    "skills": "Skills",
-    "projects": "Projects",
-    "career": "Career",
+    "home": "Início",
+    "about_me": "Sobre",
+    "skills": "Habilidades",
+    "projects": "Projetos",
+    "career": "Carreira",
     "blog": "Blog",
-    "link": "Link"
+    "link": "Links"
   },
   "about_me":{
     "about_me": "Sobre Mim",
@@ -47,7 +47,7 @@
     "my_blog": "My Blog"
   },
   "link":{
-    "link": "Link",
+    "link": "Links",
     "view": "views"
   }
 
